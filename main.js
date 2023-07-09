@@ -1,0 +1,1 @@
+console.log(123),document.querySelector(".example-dom").innerHTML="Hello, world!!!";
